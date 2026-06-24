@@ -1,0 +1,7 @@
+{
+  "name":"Aliza's app",
+  "description":"Imagine having an app-store application inside an app-store application. You don't need to Imagine anymore",
+  "version": "V1.0.0",
+  "iconPath": "",
+  "supportedOS": {"windows": "dist/alizas-app.exe"}
+}
